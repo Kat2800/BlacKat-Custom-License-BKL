@@ -7,7 +7,7 @@
 1. **"Software"** refers to any software, code, script, program, application, library, framework, tool, digital asset, or any other software product, whether existing now or in the future, provided under this license, including all accompanying files, documentation, and assets. It may also include any related updates, improvements, patches, or modifications that are distributed under this License.
 2. **"You,"** **"Your,"** **"Licensee,"** or **"User"** refers to the individual or entity using, distributing, or otherwise engaging with the Software in accordance with the terms set forth in this License.
 3. **"Authors"** refers to the original creators, developers, or contributors of the Software, including individuals or organizations. This may also include those who later contribute to the Software through bug fixes, features, or modifications, unless explicitly stated otherwise.
-4. **"Derivative Works"** refers to any new creation that includes modifications, enhancements, adaptations, or alterations to the Software, including but not limited to code modifications, rebranding, or re-implementation of the Software, whether done in part or as a whole.
+4. **"Derivative Works"** refers to any new creation that includes modifications, enhancements, adaptations, or alterations to the Software, including but not limited to code modifications, rebranding, or re-implementation of the Software, whether done in part or in whole.
 
 ## LICENSE GRANT AND SCOPE
 
@@ -52,6 +52,9 @@
    
 2. **Indemnification:**
    You agree to indemnify, defend, and hold harmless the Authors, their affiliates, and licensors from and against any claims, damages, liabilities, losses, costs, or expenses (including legal fees) arising from your use of the Software, or from any violation of the terms of this License. This includes, but is not limited to, claims from third parties based on copyright infringement, data protection violations, or any misuse of the Software.
+
+3. **No Legal Responsibility for Authors:**
+   The Authors of the Software shall never be involved in or held accountable for any legal claims or disputes arising from the use or distribution of the Software. The Authors will not be subject to any legal consequences, whether criminal or civil, regarding the Software, its use, or any violations of this License.
 
 ## GOVERNING LAW AND DISPUTE RESOLUTION
 
@@ -98,6 +101,5 @@ The Authors shall not be held liable for any criminal or civil consequences resu
 
 - **[Name and surname/platform nickname]** ([platform]: @[nickname])
   *Note: You may use a nickname or platform handle instead of a full name. Just ensure that the account belongs to you.*
-
 
 [END OF LICENSE]
