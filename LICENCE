@@ -1,6 +1,6 @@
-# BlacKat License v1.0
+# BlacKat Custom License (BKL) v1.0
 
-**Last Updated: 03/07/2025**
+**Last Updated: []**
 
 ## DEFINITIONS
 
@@ -96,9 +96,8 @@ The Authors shall not be held liable for any criminal or civil consequences resu
 
 ## AUTHORS
 
-- **rickyfili10** (GitHub: @rickyfili10)
+- **[Name and surname/platform nickname]** ([platform]: @[nickname])
   *Note: You may use a nickname or platform handle instead of a full name. Just ensure that the account belongs to you.*
-- **Lif28** (GitHub: @Lif28)
-  *Note: You may use a nickname or platform handle instead of a full name. Just ensure that the account belongs to you.*
+
 
 [END OF LICENSE]
