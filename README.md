@@ -1,6 +1,6 @@
 # BlacKat License v1.1
 
-**Last Updated: 03/07/2025**
+**Last Updated: []**
 
 ## DEFINITIONS
 
@@ -100,9 +100,7 @@ All users who have used the Software under this license are required to immediat
 
 ## AUTHORS
 
-- **rickyfili10** (GitHub: @rickyfili10)
-  *Note: You may use a nickname or platform handle instead of a full name. Just ensure that the account belongs to you.*
-- **Lif28** (GitHub: @Lif28)
+- **[nickname or real name with surname]** ([platform]: @[nickname])
   *Note: You may use a nickname or platform handle instead of a full name. Just ensure that the account belongs to you.*
 
 [END OF LICENSE]
