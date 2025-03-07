@@ -1,13 +1,13 @@
-# BlacKat Custom License (BKL) v1.0
+# BlacKat License v1.1
 
-**Last Updated: []**
+**Last Updated: 03/07/2025**
 
 ## DEFINITIONS
 
 1. **"Software"** refers to any software, code, script, program, application, library, framework, tool, digital asset, or any other software product, whether existing now or in the future, provided under this license, including all accompanying files, documentation, and assets. It may also include any related updates, improvements, patches, or modifications that are distributed under this License.
 2. **"You,"** **"Your,"** **"Licensee,"** or **"User"** refers to the individual or entity using, distributing, or otherwise engaging with the Software in accordance with the terms set forth in this License.
 3. **"Authors"** refers to the original creators, developers, or contributors of the Software, including individuals or organizations. This may also include those who later contribute to the Software through bug fixes, features, or modifications, unless explicitly stated otherwise.
-4. **"Derivative Works"** refers to any new creation that includes modifications, enhancements, adaptations, or alterations to the Software, including but not limited to code modifications, rebranding, or re-implementation of the Software, whether done in part or in whole.
+4. **"Derivative Works"** refers to any new creation that includes modifications, enhancements, adaptations, or alterations to the Software, including but not limited to code modifications, rebranding, or re-implementation of the Software, whether done in part or as a whole.
 
 ## LICENSE GRANT AND SCOPE
 
@@ -53,9 +53,6 @@
 2. **Indemnification:**
    You agree to indemnify, defend, and hold harmless the Authors, their affiliates, and licensors from and against any claims, damages, liabilities, losses, costs, or expenses (including legal fees) arising from your use of the Software, or from any violation of the terms of this License. This includes, but is not limited to, claims from third parties based on copyright infringement, data protection violations, or any misuse of the Software.
 
-3. **No Legal Responsibility for Authors:**
-   The Authors of the Software shall never be involved in or held accountable for any legal claims or disputes arising from the use or distribution of the Software. The Authors will not be subject to any legal consequences, whether criminal or civil, regarding the Software, its use, or any violations of this License.
-
 ## GOVERNING LAW AND DISPUTE RESOLUTION
 
 1. **Governing Law:**  
@@ -93,13 +90,19 @@ In the event that any provision or clause of this License is found to be invalid
 
 The Authors shall not be held liable for any criminal or civil consequences resulting from the use or distribution of the Software. The License is not intended to impose any penalty or legal consequences on the Authors in any jurisdiction where it may conflict with local laws or regulations.
 
+## Revocation of the License and Authors' Liability
+The authors of the BlacKat Custom License (BKL) reserve the right to revoke the validity of the license at any time, without any obligation to provide compensation or explanation. If the license is revoked or becomes invalid, the authors will not be responsible for any damage, loss, legal consequence, or any other arising from the use of the Software, either before or after the revocation of the license.
+All users who have used the Software under this license are required to immediately cease all use, distribution, or modification, and to remove any copies of the Software from any platforms where it was distributed. The authors will not be required to compensate for any financial loss or damage caused by the revocation of the license, nor will they be subject to any legal proceedings related to such revocation.
+
 ---
 
 **By using this Software, You agree to these terms.**
 
 ## AUTHORS
 
-- **[Name and surname/platform nickname]** ([platform]: @[nickname])
+- **rickyfili10** (GitHub: @rickyfili10)
+  *Note: You may use a nickname or platform handle instead of a full name. Just ensure that the account belongs to you.*
+- **Lif28** (GitHub: @Lif28)
   *Note: You may use a nickname or platform handle instead of a full name. Just ensure that the account belongs to you.*
 
 [END OF LICENSE]
